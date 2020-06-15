@@ -18,7 +18,7 @@ Let's do this!
 
 * You'll fork and clone this repository.
 * You'll be working in `main.js`.
-* For now, we'll eschew manual testing and just skip straight to manual testing. To try your app out, write `node main.js` followed by a number in the directory of your app.
+* For now, we'll eschew automatic testing and just skip straight to manual testing. To try your app out, write `node main.js` followed by a number in the directory of your app.
 * You'll know you're done when the following inputs give their respective outputs:
 
 `node main.js 0` -> '0 degrees Celsius is 32 degrees in Fahrenheit.'
